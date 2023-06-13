@@ -1,0 +1,14 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"4x4d": {"version":"12df390fe7cbc4b56ef6875db1013e33906d29e2","repository":"git+https://github.com/ryhn-link/4x4d"},
+		"automem": "0.6.9",
+		"cachetools": "0.4.1",
+		"isfreedesktop": "0.1.1",
+		"requests": "2.0.9",
+		"standardpaths": "0.8.2",
+		"test_allocator": "0.3.4",
+		"unit-threaded": "0.10.8",
+		"xdgpaths": "0.2.5"
+	}
+}

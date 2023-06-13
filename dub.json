@@ -1,0 +1,18 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"copyright": "Copyright © 2023, ryhon",
+	"dependencies": {
+		"4x4d": 
+		{
+			"repository": "git+https://github.com/ryhn-link/4x4d",
+			"version": "12df390fe7cbc4b56ef6875db1013e33906d29e2"
+		},
+		"requests": "~>2.0.9",
+		"standardpaths": "~>0.8.2"
+	},
+	"description": "Upload image from clipboard to Matrix and shor using ryhn.link API",
+	"license": "GPL-3",
+	"name": "clipimg"
+}
